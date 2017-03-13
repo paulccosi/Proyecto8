@@ -13,6 +13,9 @@
     </head>
     <body>
         <h1>Ejemplo con Hibernate CRUD</h1>
+        <h2>Ejemplo con Hibernate CRUD</h2>
+        <h3>Ejemplo con Hibernate CRUD</h3>
+        <h6>Ejemplo con Hibernate CRUD</h6>  
         <a href="PeriodoControl?opc=A">Ir Periodo</a>
     </body>
 </html>
